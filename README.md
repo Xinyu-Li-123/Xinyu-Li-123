@@ -1,6 +1,6 @@
 ### Greeting! 👋
 
-- Xinyu Li, or Eiger.
+- My name is Xinyu Li, or Eiger. 
 - Honors Math Undergrad @ NYU Shanghai w/ a minor degree and major interest in CS (System & Arch)
 - Transitioning from DL to System (not a fan of DL anymore, at least not until either one appear: AGI or rigorous math theory of DL)
 - ACG lover, half an Otaku I guess

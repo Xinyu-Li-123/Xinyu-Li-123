@@ -3,8 +3,6 @@
 - My name is Xinyu Li, or Eiger. 
 - **Honors Math** Undergrad @ NYU Shanghai w/ a minor degree and major interest in **CS (System & Arch)**
 - Transitioning from DL to System (Full-blooded System & Sys for ML). Not a fan of DL anymore, at least not until either one comes true: <ins>AGI</ins> or <ins>rigorous math theory of DL</ins>)
-- Familiar with Python, C; Intermediate level understanding of C++.
-- Frontend & UI/UX enthusiast
 - Art lover and ACG lover, half an Otaku I guess (profile picture is Akko from Little Witch Academia)
 
 <!--

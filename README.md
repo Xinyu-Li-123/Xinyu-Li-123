@@ -1,9 +1,7 @@
-### Greeting! 👋
+### Greeting! I'm Xinyu 👋
 
-- My name is Xinyu Li, or Eiger. 
-- **Honors Math** Undergrad @ NYU Shanghai w/ a minor degree and major interest in **CS (System & Arch)**
-- Transitioning from DL to System (Full-blooded System & Sys for ML). Not a fan of DL anymore, at least not until either one comes true: <ins>AGI</ins> or <ins>rigorous math theory of DL</ins>)
-- Art lover and ACG lover, half an Otaku I guess (profile picture is Akko from Little Witch Academia)
+- I'm currently a Master student at Carnegie Mellon University, MCDS program in system track.
+- I'm interested in computer systems in general. Currently, I'm diving deep into database systems.
 
 <!--
 **Xinyu-Li-123/Xinyu-Li-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

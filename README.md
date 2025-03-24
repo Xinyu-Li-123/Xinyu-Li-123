@@ -1,7 +1,7 @@
 ### Greeting! I'm Xinyu 👋
 
 - I'm currently a Master student at Carnegie Mellon University, MCDS program in system track.
-- I'm interested in computer systems in general. Currently, I'm diving deep into database systems.
+- I'm interested in computer systems in general.
 
 <!--
 **Xinyu-Li-123/Xinyu-Li-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
